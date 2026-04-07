@@ -13,3 +13,4 @@ O objetivo desta atividade é validar a configuração do ambiente de desenvolvi
 3. No terminal, dentro da pasta do projeto, execute:
    ```bash
    dart main.dart
+4.  Alteração
