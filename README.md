@@ -137,13 +137,3 @@ Digite o ISBN do livro: 978-0132350884
 | Menu interativo no terminal | ✅ Implementado |
 | Validações de entrada | ✅ Implementado |
 
----
-
-## 📥 Entrega do Trabalho
-
-- ✅ Repositório público no GitHub
-- ✅ Código fonte completo com comentários
-- ✅ Documentação README.md
-- ✅ Todos os requisitos técnicos atendidos
-
-> **Instruções para envio:** Enviar e-mail para joao.vsantos@unicesumar.edu.br com título "Trabalho 2 Mobile ESOFT7S", contendo nome dos integrantes, usuário GitHub e link do repositório.
