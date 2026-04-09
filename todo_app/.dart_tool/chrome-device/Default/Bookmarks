@@ -1,0 +1,1011 @@
+{
+   "checksum": "0da3c261c50e7c9c4ac9ae011bf02fb7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13165376026903559",
+            "date_last_used": "13420169430903367",
+            "guid": "0145d51a-7089-42ff-86e8-6ec10fc642e1",
+            "id": "7",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 794
+         }, {
+            "date_added": "13400398429773968",
+            "date_last_used": "13420087096749383",
+            "guid": "5c121789-5a70-4022-be3c-cd3cf96f56b6",
+            "id": "8",
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/",
+            "visit_count": 60
+         }, {
+            "date_added": "13393024224274266",
+            "date_last_used": "13420086068043324",
+            "guid": "35fa57a7-ade6-483a-b012-665d64ce5427",
+            "id": "9",
+            "name": "Google Gemini",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gemini.google.com/app?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all",
+            "visit_count": 35
+         }, {
+            "date_added": "13320730555786216",
+            "date_last_used": "13419719118810340",
+            "guid": "08539554-c2a5-481c-a5a8-0dc9f5bf8a59",
+            "id": "10",
+            "name": "YouTube Music",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://music.youtube.com/",
+            "visit_count": 293
+         }, {
+            "date_added": "13407030077449447",
+            "date_last_used": "13420084755411888",
+            "guid": "1e66f325-c506-425d-9df8-178a30b0e92e",
+            "id": "11",
+            "name": "Twitch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.twitch.tv/",
+            "visit_count": 169
+         }, {
+            "date_added": "13416980490771099",
+            "date_last_used": "13417152178248907",
+            "guid": "a8b90725-13a0-46f1-b999-a5d3282fdfb3",
+            "id": "12",
+            "name": "Cursos online - aprenda o que quiser, quando quiser | Udemy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.udemy.com/",
+            "visit_count": 2
+         }, {
+            "date_added": "13357510753718783",
+            "date_last_used": "13418687065682192",
+            "guid": "32a283da-5683-448d-8ecf-ebc721aaccca",
+            "id": "13",
+            "name": "TikTok - Make Your Day",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tiktok.com/pt-BR/",
+            "visit_count": 14
+         }, {
+            "children": [ {
+               "date_added": "13392833613558577",
+               "date_last_used": "0",
+               "guid": "aa4d9f42-5718-4770-96b5-7798b95d51fa",
+               "id": "15",
+               "name": "DIO | Codifique o seu futuro global agora",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.dio.me/",
+               "visit_count": 0
+            }, {
+               "date_added": "13392833622906456",
+               "date_last_used": "0",
+               "guid": "f4dfe31d-722d-4175-81d1-439d8a7d2e83",
+               "id": "16",
+               "name": "Learn to Code — For Free — Coding Courses for Busy People -- \"https://www.freecodecamp.org/\" -- \"Win64 Edge v136.0.0.0\"",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/",
+               "visit_count": 0
+            }, {
+               "date_added": "13392833636420618",
+               "date_last_used": "0",
+               "guid": "8c7ec377-f953-473b-ae30-3c18105b6d85",
+               "id": "17",
+               "name": "Fundação Bradesco - Escola Virtual",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.ev.org.br/",
+               "visit_count": 0
+            }, {
+               "date_added": "13392833658020016",
+               "date_last_used": "0",
+               "guid": "7390410b-fcbe-434d-9008-a9bd2f4de386",
+               "id": "18",
+               "name": "Curso em Vídeo - Aprenda informática com cursos grátis.",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.cursoemvideo.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13392833668140300",
+               "date_last_used": "0",
+               "guid": "0dcaaeca-6c18-403b-97c9-6e748d5ce946",
+               "id": "19",
+               "name": "Alura | Cursos online de Tecnologia",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.alura.com.br/start",
+               "visit_count": 0
+            }, {
+               "date_added": "13392833691923302",
+               "date_last_used": "0",
+               "guid": "bef8d5f4-3eec-4430-8de2-6ec93eb0d440",
+               "id": "20",
+               "name": "Grow with Google - Training to Grow Your Business & Career",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://grow.google/",
+               "visit_count": 0
+            } ],
+            "date_added": "13392833581632171",
+            "date_last_used": "0",
+            "date_modified": "13392833691923302",
+            "guid": "b60ff796-453f-41df-911d-8203f1ab45c8",
+            "id": "14",
+            "name": "Certificacoes",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13168444666171418",
+               "date_last_used": "13417640926566674",
+               "guid": "0f1aa627-1a9c-47e3-a4aa-c22da478c320",
+               "id": "22",
+               "name": "Detran-PR",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.extratodebito.detran.pr.gov.br/detranextratos/geraExtrato.do?action=iniciarProcesso",
+               "visit_count": 71
+            }, {
+               "date_added": "13168443507939538",
+               "date_last_used": "13417640851984267",
+               "guid": "dd878790-4754-44e5-b689-0d49c9b5e9a9",
+               "id": "23",
+               "name": "Veículo - Detran PR",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.veiculo.detran.pr.gov.br/detran-veiculos/",
+               "visit_count": 523
+            }, {
+               "date_added": "13189787341957952",
+               "date_last_used": "0",
+               "guid": "aa6f0c99-7cd8-4c8e-b154-ccbd05eda9bb",
+               "id": "24",
+               "name": "Consultar a Pontuação da CNH - DETRAN",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.detran.pr.gov.br/servicos/consultar-a-pontuacao-da-cnh/",
+               "visit_count": 0
+            }, {
+               "date_added": "13246131387253223",
+               "date_last_used": "13412873011061005",
+               "guid": "dd7f6485-116a-474d-8543-1c9ceb05b4a8",
+               "id": "25",
+               "name": "Entrar",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://sso.godaddy.com/?realm=pass&app=email",
+               "visit_count": 1
+            }, {
+               "date_added": "13256856146110828",
+               "date_last_used": "13382128110875678",
+               "guid": "110966a5-f85d-43ea-97fd-0eb381756150",
+               "id": "26",
+               "name": "CNPJ",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp?cnpj=",
+               "visit_count": 1
+            }, {
+               "date_added": "13264033068562103",
+               "date_last_used": "0",
+               "guid": "727c05ee-0d4e-47aa-afa1-8523bd665f39",
+               "id": "27",
+               "name": "Cadeira Gamer DT3 Sports Elise Fabric Black, 12191-4 | Pichau",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.pichau.com.br/cadeiras/gamer/cadeira-gamer-dt3-sports-elise-fabric-black-12191-4",
+               "visit_count": 0
+            }, {
+               "date_added": "13264575739211438",
+               "date_last_used": "0",
+               "guid": "ded0ecdc-7170-4bf5-88c4-b9299afcac1d",
+               "id": "28",
+               "name": "VIDEO SETTINGS - Twitch",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://clips.twitch.tv/UglyEphemeralNewtThisIsSparta",
+               "visit_count": 0
+            }, {
+               "children": [ {
+                  "date_added": "13231981802784390",
+                  "date_last_used": "0",
+                  "guid": "e6b8e348-c3ab-414e-a2cf-c3515a12e1f3",
+                  "id": "30",
+                  "name": "Tênis adidas POD-S3.1 Masculino | Tênis é na Artwalk - Artwalk",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.artwalk.com.br/tenis-adidas-pod-s3-1-masculino-ee505-4-001/p",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13231149300684175",
+                  "date_last_used": "0",
+                  "guid": "7d42eb2d-427b-4838-8801-e0209722fc6d",
+                  "id": "31",
+                  "name": "LISTA DE DROP | MMORPG MEDIEVAL",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.shaiyaeternidade.com.br/drop-list",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13199056567705379",
+                  "date_last_used": "0",
+                  "guid": "5616194e-94fb-4bb6-88ae-0247723a2f02",
+                  "id": "32",
+                  "name": "Tênis Nite Jogger - Branco adidas | adidas Brasil",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.adidas.com.br/tenis-nite-jogger%0A/CG5950.html",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13199056607137340",
+                  "date_last_used": "0",
+                  "guid": "b561f1f4-0351-4439-9f6f-e18bf69d6c1b",
+                  "id": "33",
+                  "name": "Tênis POD System 3.1 - Branco adidas | adidas Brasil",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.adidas.com.br/tenis-pod-system-3.1/DB3537.html",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13255501565548718",
+                  "date_last_used": "0",
+                  "guid": "d9582c0b-6738-4801-a958-6cbdb0e8a5d8",
+                  "id": "34",
+                  "name": "Akasa Riser Black Pro - Suporte Para Placa De Vídeo Vertical | Mercado Livre",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://produto.mercadolivre.com.br/MLB-1763604695-akasa-riser-black-pro-suporte-para-placa-de-video-vertical-_JM#position=46&type=item&tracking_id=ef39317a-5397-4d53-bf24-ecf7e627741d",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13255578512231979",
+                  "date_last_used": "0",
+                  "guid": "5913639b-a58c-4a06-bf40-71ccfc7e366a",
+                  "id": "35",
+                  "name": "Suporte/mãofrancesa Aço Inox 30 Cm | Mercado Livre",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://produto.mercadolivre.com.br/MLB-1242274076-suportemofrancesa-aco-inox-30-cm-_JM#position=20&type=item&tracking_id=7fc00964-a034-4791-9666-80c8dcdc2e76",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13256145098265153",
+                  "date_last_used": "0",
+                  "guid": "e2539a31-e742-459a-9410-ea1446f7be15",
+                  "id": "36",
+                  "name": "Suporte para mouse de games grade xxl, jogo de mesa de mousepad para computador rgb tapete esteira de mouse gamer para pc com luz traseira|Mouse pads| - AliExpress",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pt.aliexpress.com/item/33045089829.html?spm=a2g0o.detail.1000014.3.8f102f3fHNRfhm&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.211181.0&scm_id=1007.33416.211181.0&scm-url=1007.33416.211181.0&pvid=3aa921f1-a375-4be9-a4a4-6c3366448932&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.211181.0,pvid:3aa921f1-a375-4be9-a4a4-6c3366448932,tpp_buckets:668%230%23131923%2323_668%23888%233325%236_23416%230%23211181%2312_23416%234721%2321967%238_23416%234722%2321972%239_668%232846%238112%231997_668%232717%237563%23520_668%231000022185%231000066058%230_668%233422%2315392%23800_4452%230%23211409%230_4452%233474%2316498%23924_4452%234862%2322449%23631_4452%233098%239599%23129_4452%235108%2323442%23805_4452%233564%2316062%23237",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13256145334417838",
+                  "date_last_used": "0",
+                  "guid": "125aa716-4298-4122-9fda-fa8f8dce742e",
+                  "id": "37",
+                  "name": "Caixa do computador placa gráfica 90 ° vertical suporte de colocação rgb light emitting bracket liga de alumínio bogie suporte x16pcie cabo|Cabos de computador e conectores| - AliExpress",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pt.aliexpress.com/item/4000613591301.html?spm=a2g0o.detail.1000014.21.14c56e9f9QiPw8&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.211181.0&scm_id=1007.33416.211181.0&scm-url=1007.33416.211181.0&pvid=6bb49e0d-aa93-4ac5-b032-877b5d26b77f&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.211181.0,pvid:6bb49e0d-aa93-4ac5-b032-877b5d26b77f,tpp_buckets:668%230%23131923%2397_668%23888%233325%236_23416%230%23211181%2312_23416%234721%2321967%238_23416%234722%2321972%239_668%232846%238112%231997_668%232717%237563%23520_668%231000022185%231000066058%230_668%233422%2315392%23583_4452%230%23211409%230_4452%233474%2316498%23924_4452%234862%2322449%23631_4452%233098%239599%23129_4452%235108%2323442%23805_4452%233564%2316062%23237",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13258517915955101",
+                  "date_last_used": "0",
+                  "guid": "bcdaedeb-bb64-4fd3-ad3c-c3fc8a07ffa1",
+                  "id": "38",
+                  "name": "Volante Logitech G29 Driving Force PS3/PS4/PC - 941-000111 | KaBuM!",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.kabum.com.br/produto/69305/volante-logitech-g29-driving-force-ps3-ps4-pc-94-",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13259200015656483",
+                  "date_last_used": "0",
+                  "guid": "9144400b-5662-48a5-83cf-388d292a20dd",
+                  "id": "39",
+                  "name": "Teclado Mecânico Riotoro, Ghostwriter Prism RGB, Cherry MX Blue, RGB, Black, KR710-XP",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.terabyteshop.com.br/produto/16184/teclado-mecanico-gamer-riotoro-ghostwriter-prisma-rgb-black-switch-blue-kr710-xp",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13259200019198390",
+                  "date_last_used": "0",
+                  "guid": "d7f36e7b-8276-4bfc-9f3d-84e86e2f1ccf",
+                  "id": "40",
+                  "name": "Headset Gamer Riotoro Aviator Classic, Surround 7.1, Black",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.terabyteshop.com.br/produto/13033/headset-gamer-riotoro-aviator-classic-surround-71-black",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13259200084533762",
+                  "date_last_used": "0",
+                  "guid": "0af0a7eb-5aea-4c0d-b20d-e662e4de9c11",
+                  "id": "41",
+                  "name": "Cadeira Gamer Riotoro, Spitfire M2, Mesh, Reclinável, Black/Red, GC-10M2",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.terabyteshop.com.br/produto/15530/cadeira-gamer-riotoro-spitfire-m2-mesh-reclinavel-blackred-gc-10m2",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13261703311574934",
+                  "date_last_used": "0",
+                  "guid": "041f8314-7584-4b90-8860-05eaca0d5cfc",
+                  "id": "42",
+                  "name": "Razer kraken essential x gaming headset fone de ouvido fone de ouvido 7.1 surround som ultra leve dobrável microfone cardióide|Cabos de computador e conectores| - AliExpress",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pt.aliexpress.com/item/1005001381139569.html?spm=a2g0o.productlist.0.0.a77a1d9abOC0FV&algo_pvid=9b91bd3a-43d6-423e-876d-3703cbe386e5&algo_expid=9b91bd3a-43d6-423e-876d-3703cbe386e5-7&btsid=0bb0622a16172296814682244e9732&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13261703822875003",
+                  "date_last_used": "0",
+                  "guid": "617c00bd-5ab8-4149-9a4c-849c30d9c2e0",
+                  "id": "43",
+                  "name": "Rgb gaming mouse bungees cabo suporte de fio ventosa ratos cabo gestão clipe fixer com 2 portas usb 14 modos iluminação|Acessórios para fone de ouvido| - AliExpress",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pt.aliexpress.com/item/1005002312136220.html?spm=a2g0o.detail.1000014.1.32502950kM26BS&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.213724.0&scm_id=1007.33416.213724.0&scm-url=1007.33416.213724.0&pvid=af1a0626-e8a0-4d8a-894e-89082c44ffac&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.213724.0,pvid:af1a0626-e8a0-4d8a-894e-89082c44ffac,tpp_buckets:668%230%23131923%23100_668%23888%233325%2320_23416%230%23213724%230_23416%234721%2321967%23563_23416%234722%2321972%237_668%232846%238111%231996_668%232717%237561%23382_668%231000022185%231000066059%230_668%233422%2315392%23796_4452%230%23214000%230_4452%233474%2315675%2333_4452%234862%2324463%2371_4452%233098%239599%2358_4452%235108%2323442%23618_4452%233564%2316062%23366",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13261704337576633",
+                  "date_last_used": "0",
+                  "guid": "fb4e0ae9-3285-4945-9855-6fee00d14391",
+                  "id": "44",
+                  "name": "2021 novo puma masculino impresso terno de duas peças de algodão de alta qualidade moletom com capuz + moletom primavera hoodie correndo esportes|Conjuntos Masculinos| - AliExpress",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pt.aliexpress.com/item/1005002281595489.html?spm=a2g0o.detail.1000014.1.196a3b49UEe5lM&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.213724.0&scm_id=1007.33416.213724.0&scm-url=1007.33416.213724.0&pvid=b5386af3-3974-4c2f-a986-416eb3821688&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.213724.0,pvid:b5386af3-3974-4c2f-a986-416eb3821688,tpp_buckets:668%230%23131923%2340_668%23888%233325%2320_23416%230%23213724%230_23416%234721%2321967%23563_23416%234722%2321972%237_668%232846%238111%231996_668%232717%237561%23382_668%231000022185%231000066059%230_668%233422%2315392%23911_4452%230%23214000%230_4452%233474%2315675%2333_4452%234862%2324463%2371_4452%233098%239599%2358_4452%235108%2323442%23618_4452%233564%2316062%23366",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13261704408385538",
+                  "date_last_used": "0",
+                  "guid": "b9416680-8aca-4f59-8ca5-a5746f3fb238",
+                  "id": "45",
+                  "name": "Agasalho masculino verão agasalho duas peças camiseta calças marca agasalho masculino jogging terno|Conjuntos Masculinos| - AliExpress",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pt.aliexpress.com/item/1005002330664457.html?spm=a2g0o.detail.100009.4.30a055a8XGztEP&gps-id=pcDetailLeftTopSell&scm=1007.13482.95643.0&scm_id=1007.13482.95643.0&scm-url=1007.13482.95643.0&pvid=2f5b211a-9621-4f7a-a726-68d966c1bcb6&_t=gps-id:pcDetailLeftTopSell,scm-url:1007.13482.95643.0,pvid:2f5b211a-9621-4f7a-a726-68d966c1bcb6,tpp_buckets:668%230%23131923%2341_668%230%23131923%2341_668%23888%233325%2320_668%23888%233325%2320_668%232846%238111%231996_668%232717%237561%23382_668%231000022185%231000066059%230_668%233480%2315683%23749_668%232846%238111%231996_668%232717%237561%23382_668%233164%239976%23327_668%233480%2315683%23749",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13262737656655804",
+                  "date_last_used": "0",
+                  "guid": "18213d03-5a6e-47db-b5b8-7c71d7d2f9c8",
+                  "id": "46",
+                  "name": "Mouse Gamer Corsair Nightsword RGB 18000 DPI, 8 Botões Programáveis, Black, CH-9306011-NA",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.terabyteshop.com.br/produto/11949/mouse-gamer-corsair-nightsword-rgb-18000-dpi-8-botoes-programaveis-black-ch-9306011-na",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13271864438498970",
+                  "date_last_used": "0",
+                  "guid": "140080dc-ce1c-4013-b1cd-dfaa5f38b7db",
+                  "id": "47",
+                  "name": "Kit 3 Quadros Decorativos Olhos de Pantera Triângulos - defacile",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.defacile.com.br/kit-3-quadros-decorativos-olhos-de-pantera-triangulos-defacile/p",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13274748597419226",
+                  "date_last_used": "0",
+                  "guid": "80034008-48db-40f6-b38b-5ba15c39b9bc",
+                  "id": "48",
+                  "name": "Start | Method : Instagram Private Profile Viewer!",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://instalooker.com/start/?usr=deh_pitlovanciv#",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13292977872492322",
+                  "date_last_used": "0",
+                  "guid": "ad4ddbb4-66aa-4b75-8d81-cbc157c8e349",
+                  "id": "49",
+                  "name": "Relógio Analógico Champion Social - CN26019Q - Prata | Netshoes",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.netshoes.com.br/relogio-analogico-champion-social-cn26019q-prata-H91-3140-064",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13293694719423128",
+                  "date_last_used": "0",
+                  "guid": "47dbad71-a1dc-4d4b-856e-fcc51b1f86fa",
+                  "id": "50",
+                  "name": "Tênis Forum Low - Branco adidas | adidas Brasil",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.adidas.com.br/tenis-forum-low/GX0992.html",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13373953926734612",
+                  "date_last_used": "0",
+                  "guid": "513d46e9-56b9-44bc-b8e5-bb8db16a196c",
+                  "id": "51",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Rapoo-VT3Pro Max Lightweight Mouse para jogos sem fio, 9 botões programáveis, Sensor óptico final, 8KHz Polling Rate, 3000 DPI, 59g - AliExpress 7",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pt.aliexpress.com/item/1005007370236273.html?businessType=ProductDetail&srcSns=sns_WhatsApp&sourceType=620&spreadType=socialShare&bizType=ProductDetail&social_params=21640754959&aff_fcid=411c8aebebf2403d9ae3e76637d777e1-1729479720884-01511-_mM9VTuM&tt=CPS_NORMAL&aff_fsk=_mM9VTuM&aff_platform=shareComponent-detail&sk=_mM9VTuM&aff_trace_key=411c8aebebf2403d9ae3e76637d777e1-1729479720884-01511-_mM9VTuM&shareId=21640754959&businessType=ProductDetail&platform=AE&terminal_id=072a2a389fa74b889f6f341610f5cd48&gatewayAdapt=glo2bra",
+                  "visit_count": 1
+               }, {
+                  "date_added": "13382199976283116",
+                  "date_last_used": "0",
+                  "guid": "b35edb60-349e-45f9-85c3-385e0fadc548",
+                  "id": "52",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Perfume Masculino Lussac Sport Thera Cosméticos",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.theracosmeticos.com.br/produtos/perfume-masc-lussac-sport/",
+                  "visit_count": 1
+               }, {
+                  "date_added": "13382199982410607",
+                  "date_last_used": "0",
+                  "guid": "38787324-52bb-41ca-b575-1d1d48359271",
+                  "id": "53",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Perfume Masculino Páros Thera Cosméticos",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.theracosmeticos.com.br/produtos/perfume-masc-paros-50-ml/",
+                  "visit_count": 1
+               }, {
+                  "date_added": "13382200016550167",
+                  "date_last_used": "0",
+                  "guid": "f0f8f3a3-9b83-4f5d-a7f1-c9633f166b9b",
+                  "id": "54",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Perfume Masculino Eron Thera Cosméticos",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.theracosmeticos.com.br/produtos/perfume-masc-eron/",
+                  "visit_count": 1
+               }, {
+                  "date_added": "13382200098362607",
+                  "date_last_used": "0",
+                  "guid": "abeb6fe4-d071-4a42-9e6d-78b2d7f72133",
+                  "id": "55",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Deo Colônia Noah Thera Cosméticos",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.theracosmeticos.com.br/produtos/deo-colonia-noah-100-ml/",
+                  "visit_count": 1
+               } ],
+               "date_added": "13290805050338681",
+               "date_last_used": "0",
+               "date_modified": "13382200098362607",
+               "guid": "5780af39-6b5f-48cd-ac32-647f60e26c1b",
+               "id": "29",
+               "name": "Comprar",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13295643012787683",
+               "date_last_used": "0",
+               "guid": "ae330b21-2291-4af0-811d-e0ae6ea79478",
+               "id": "56",
+               "name": "",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/Guilherme/Documents/Projeto1/projeto1.html",
+               "visit_count": 0
+            }, {
+               "date_added": "13369211410879350",
+               "date_last_used": "13409204323825403",
+               "guid": "566c7afd-7577-4df7-8b67-5947032590ac",
+               "id": "57",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SuperFilmes - Assistir filme Piratas do Caribe: O Baú da Morte Online DUBLADO e LEGENDADO",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://superfilmes.bio/filmes/assistir-online-piratas-do-caribe-o-bau-da-morte/",
+               "visit_count": 39
+            } ],
+            "date_added": "13290805050340191",
+            "date_last_used": "0",
+            "date_modified": "13369211410879350",
+            "guid": "e0f56294-4103-486e-8e3a-4960a2a64b1a",
+            "id": "21",
+            "name": "Detran",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13266459276883339",
+               "date_last_used": "0",
+               "guid": "3aa9d050-a2c8-466d-9963-e5cb57b39445",
+               "id": "59",
+               "name": "JIALIN, Loja Online | Shopee Brasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://shopee.com.br/shop/273105054/search?originalCategoryId=26995&page=2&sortBy=pop",
+               "visit_count": 0
+            }, {
+               "date_added": "13266459265891276",
+               "date_last_used": "0",
+               "guid": "9c78a9da-b140-4b30-9bc1-7abd7ad6cddf",
+               "id": "60",
+               "name": "Nk Wmns Air Force 1 '07 Cal Ados Esportivo Casuais | Shopee Brasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://shopee.com.br/Nk-Wmns-Air-Force-1-'07-Cal-Ados-Esportivo-Casuais-i.273105054.6162873160",
+               "visit_count": 0
+            }, {
+               "date_added": "13266459756121695",
+               "date_last_used": "0",
+               "guid": "a7ae0499-d9a8-4476-9386-a32050c9818e",
+               "id": "61",
+               "name": "(Jialin) Air Jordan 1 Low Aj1T Nis De Corrida Cal Ados Esportivo | Shopee Brasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://shopee.com.br/(Jialin)-Air-Jordan-1-Low-Aj1T-Nis-De-Corrida-Cal-Ados-Esportivo-i.273105054.7743199444",
+               "visit_count": 0
+            }, {
+               "date_added": "13353385413096531",
+               "date_last_used": "13378077858223495",
+               "guid": "8426bbec-55b1-4a0b-84bd-e780607b176a",
+               "id": "62",
+               "name": "bet365 - Apostas Desportivas Online",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.bet365.com/#/HO/",
+               "visit_count": 5
+            }, {
+               "date_added": "13356240132014194",
+               "date_last_used": "0",
+               "guid": "0cbe246a-5a45-4c38-ad4a-f040e0e50079",
+               "id": "63",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "mouse gamer no Paraguai - ComprasParaguai.com.br",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.comprasparaguai.com.br/busca/?q=mouse+gamer",
+               "visit_count": 0
+            }, {
+               "date_added": "13328927580862335",
+               "date_last_used": "13373954473827966",
+               "guid": "a3167da4-c4d3-4c62-8f06-09950b122b79",
+               "id": "64",
+               "name": "- AliExpress",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://pt.aliexpress.com/item/1005003269472101.html?spm=a2g0o.productlist.main.1.70de223bH1shnh&algo_pvid=dba8eda3-5853-4e45-988a-4871ecbe4a89&algo_exp_id=dba8eda3-5853-4e45-988a-4871ecbe4a89-0&pdp_npi=3%40dis%21BRL%21212.87%21212.87%21%21%21%21%21%402122457116844533635038065d0798%2112000024947843548%21sea%21BR%212696629844&curPageLogUid=lRSUhrzV4Wzd",
+               "visit_count": 2
+            }, {
+               "date_added": "13357498386836005",
+               "date_last_used": "0",
+               "guid": "5d4a426e-b631-4fbf-95ce-a72a160715a2",
+               "id": "65",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Camiseta RX Crew",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.rexpeita.com.br/produtos/camisetas/camiseta-rx-crew",
+               "visit_count": 0
+            }, {
+               "date_added": "13266459834895783",
+               "date_last_used": "0",
+               "guid": "499a4c3c-ee3f-4a05-8304-7987f455bb1a",
+               "id": "66",
+               "name": "Nike Air Force 1 '07Cal Ados Esportivo Casuais36-45 | Shopee Brasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://shopee.com.br/Nike-Air-Force-1-'07Cal-Ados-Esportivo-Casuais36-45-i.273105054.6749276410",
+               "visit_count": 0
+            }, {
+               "date_added": "13266460336938723",
+               "date_last_used": "0",
+               "guid": "39b5b006-5b20-4378-8c54-ad6abd08ff18",
+               "id": "67",
+               "name": "(Juilin) Aj1 Lowt Nis De Basquete T Nis Esportivo De Nis Esportivo De Corrida35.5 45 | Shopee Brasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://shopee.com.br/(Juilin)-Aj1-Lowt-Nis-De-Basquete-T-Nis-Esportivo-De-Nis-Esportivo-De-Corrida35.5-45-i.273105054.6260650398",
+               "visit_count": 0
+            }, {
+               "date_added": "13266460353658320",
+               "date_last_used": "0",
+               "guid": "4fa02bb9-261a-47c0-bdc2-c4bd71f73608",
+               "id": "68",
+               "name": "(Jialin) Air Jordan 1 Mid Whitet Nis De Basquete40-46 | Shopee Brasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://shopee.com.br/(Jialin)-Air-Jordan-1-Mid-Whitet-Nis-De-Basquete40-46-i.273105054.3549373845",
+               "visit_count": 0
+            }, {
+               "date_added": "13351555347492981",
+               "date_last_used": "0",
+               "guid": "db5b96bb-9305-4675-86af-8f97468c84db",
+               "id": "69",
+               "name": "TST - Hugo Hugo Boss - EDT 125ml",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://chicperfumados.com.br/produtos/tst-hugo-hugo-boss-edt-125ml/",
+               "visit_count": 0
+            }, {
+               "date_added": "13290911905972727",
+               "date_last_used": "13390885118828382",
+               "guid": "dc33b86d-9ee5-4341-a8df-a9e3450552e6",
+               "id": "70",
+               "name": "Almofadas de substituição para fones de ouvido, almofada de veludo para fones de ouvido|Acessórios para fone de ouvido| - AliExpress",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://pt.aliexpress.com/item/1005002821769377.html?_randl_currency=BRL&_randl_shipto=BR&src=google&aff_fcid=cef3a8e4d41d40549684c25de97f938a-1646438181034-01060-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=cef3a8e4d41d40549684c25de97f938a-1646438181034-01060-UneMJZVf&terminal_id=3f6e72e93eec4a9782ee60d56f9aa564&afSmartRedirect=y",
+               "visit_count": 1
+            }, {
+               "date_added": "13291422328750580",
+               "date_last_used": "0",
+               "guid": "75b17c9a-e2ac-4ae8-b3d3-65e5d605ad64",
+               "id": "71",
+               "name": "Mousepad GAMER SteelSeries QCK PRISM CLOTH - XL RGB (63826) | Amazon.com.br",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.amazon.com.br/Mousepad-GAMER-SteelSeries-PRISM-CLOTH/dp/B07JQ2TK86/ref=sr_1_7?crid=2SWXCTAZLXTDP&keywords=mouse+pad+steelseries&qid=1646948660&s=computers&sprefix=mouse+pad+steel%2Ccomputers%2C176&sr=1-7&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147",
+               "visit_count": 0
+            }, {
+               "date_added": "13330243904603937",
+               "date_last_used": "0",
+               "guid": "3e236c8a-5269-47db-a4a0-11bd5ba46b47",
+               "id": "72",
+               "name": "Mousepad Zowie G-SR 470x390x3,5mm, G-SR | Pichau",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.pichau.com.br/mousepad-zowie-g-sr-470x390x3-5mm-g-sr",
+               "visit_count": 0
+            }, {
+               "date_added": "13292357102714954",
+               "date_last_used": "13374136288923510",
+               "guid": "cd97429c-4360-4c7e-a2e0-fdc9a288d974",
+               "id": "73",
+               "name": "Nike Air Force 1 '07Cal Ados Esportivo Casuais36-45 | Shopee Brasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://shopee.com.br/Nike-Air-Force-1-'07Cal-Ados-Esportivo-Casuais36-45-i.586597208.14600551270?xptdk=8e783a31-aef5-4134-ab9d-c2e60d1c9398",
+               "visit_count": 1
+            } ],
+            "date_added": "13290805050341184",
+            "date_last_used": "0",
+            "date_modified": "13357498386836005",
+            "guid": "058bc28e-4f13-4fbf-a408-75f5f691056f",
+            "id": "58",
+            "name": "Shopee",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13389851054746446",
+            "date_last_used": "13411250707290947",
+            "guid": "78c9662f-7006-4067-98b7-7e478f95dae1",
+            "id": "74",
+            "name": "TFT Meta Team Comps Tier List · Teamfight Tactics -- \"https://tftactics.gg/tierlist/team-comps/\" -- \"Win64 Edge v135.0.0.0\"",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tftactics.gg/tierlist/team-comps/",
+            "visit_count": 71
+         }, {
+            "date_added": "13387418580646245",
+            "date_last_used": "13418952608102126",
+            "guid": "af302bdc-cca3-454b-8599-36b601b53deb",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FIERCE GAMING GEAR | MADLIONS -- \"https://hub.fgg.com.cn/\" -- \"Win64 Edge v134.0.0.0\"",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hub.fgg.com.cn/",
+            "visit_count": 155
+         }, {
+            "date_added": "13402637042301735",
+            "date_last_used": "13420087288161206",
+            "guid": "6b8dc031-9afb-4f43-843c-b8de9623505e",
+            "id": "76",
+            "name": "RedeCanais✔️🎥 - Assistir Animes, Séries, Novelas, Filmes e Desenhos Online! E o melhor, é de Graça!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://redecanais.sb/",
+            "visit_count": 82
+         }, {
+            "date_added": "13404110027499414",
+            "date_last_used": "13420087338352414",
+            "guid": "e593b915-8830-4d49-8418-ecd31ad31ed0",
+            "id": "77",
+            "name": "DONFLIX - Assistir Filmes Online Grátis, Assistir Séries Online Grátis, Assistir Animes Online Grátis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://donflix.pages.dev/?=Assistir_ufc_Online_",
+            "visit_count": 59
+         }, {
+            "date_added": "13409612973345285",
+            "date_last_used": "0",
+            "guid": "2fca77f5-4f3c-4506-a949-e65a3f10570b",
+            "id": "78",
+            "name": "Putian Shoes Cross-Border New Shoes Assassin 16 Football Shoes European Cup Broken Nails Male and Female Students Competition Training",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cssbuy.com/item-1688-935709621481.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13409797572431370",
+            "date_last_used": "13419398961574427",
+            "guid": "726a2252-c662-4695-b981-fc42f6b74065",
+            "id": "79",
+            "name": "Armação de óculos hexagonal 2 em 1 unissex, moderna | Shopee Brasil",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.com.br/Arma%C3%A7%C3%A3o-de-%C3%B3culos-hexagonal-2-em-1-unissex-moderna-i.890453555.23293878331?extraParams=%7B%22display_model_id%22%3A169406497390%2C%22model_selection_logic%22%3A3%7D&sp_atk=264820e7-6802-49d1-917a-6560060ef37a&xptdk=264820e7-6802-49d1-917a-6560060ef37a",
+            "visit_count": 6
+         }, {
+            "date_added": "13414956475282244",
+            "date_last_used": "0",
+            "guid": "ce7284f6-ad84-4e37-9f79-bf88bd37af10",
+            "id": "80",
+            "name": "(270) FURIA x SPIRIT | SEMIFINAL - IEM Kraków 2026 - Stage 2 - !socio - Siga @Gaules nas redes sociais! - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=0RQqqgdEDcU",
+            "visit_count": 1
+         }, {
+            "date_added": "13419723240402995",
+            "date_last_used": "0",
+            "guid": "d454b40a-db02-47ac-b8db-88afc497f0fc",
+            "id": "81",
+            "name": "Pulseiras de Prata Feminina: Pontos de Luz, Espiral e Mais",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.argennti.com.br/joias-femininas/pulseiras/",
+            "visit_count": 0
+         } ],
+         "date_added": "13420170687083592",
+         "date_last_used": "0",
+         "date_modified": "13419723240402995",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13373959043971688",
+            "date_last_used": "0",
+            "guid": "2da65e73-2c9d-4965-bb03-299194813c9b",
+            "id": "82",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zazin-mouse sem fio z2, três modos, bluetooth, por favor escolha a ordem - AliExpress 7",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/1005007186610219.html?aff_fcid=d13183b0f066432b86857733c6152e1d-1729485411448-02798-_DC71Bqx&tt=CPS_NORMAL&aff_fsk=_DC71Bqx&aff_platform=shareComponent-detail&sk=_DC71Bqx&aff_trace_key=d13183b0f066432b86857733c6152e1d-1729485411448-02798-_DC71Bqx&terminal_id=072a2a389fa74b889f6f341610f5cd48&afSmartRedirect=y",
+            "visit_count": 1
+         }, {
+            "date_added": "13373959638499987",
+            "date_last_used": "13374040736508288",
+            "guid": "cc912330-7d9b-4aa1-8886-3c26461eaf95",
+            "id": "83",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Rapoo-VT3PRO MAX Mouse sem fio para jogos, Sensor óptico, Independente X, Y DPI Configuração, Super Light, 8KHz Polling Rate, 30000 DPI, 59g - AliExpress 7",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/1005007338832257.html?aff_fcid=0c60b60bee3e447e8dd94f09e182bb56-1729485998504-08156-_DmQNBQt&tt=CPS_NORMAL&aff_fsk=_DmQNBQt&aff_platform=shareComponent-detail&sk=_DmQNBQt&aff_trace_key=0c60b60bee3e447e8dd94f09e182bb56-1729485998504-08156-_DmQNBQt&terminal_id=072a2a389fa74b889f6f341610f5cd48&afSmartRedirect=y",
+            "visit_count": 3
+         }, {
+            "date_added": "13374130070396397",
+            "date_last_used": "0",
+            "guid": "cbbb2a19-9925-464e-bfba-332ebf5bf781",
+            "id": "84",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mouse Rapoo VT3 Pro Max - Periféricos e Acessórios de Computador - Vila Leme da Silva, Bauru 1348054319 | OLX",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/informatica/perifericos-de-computador/mouse-rapoo-vt3-pro-max-1348054319",
+            "visit_count": 1
+         }, {
+            "date_added": "13374222003037564",
+            "date_last_used": "0",
+            "guid": "755be5a2-e8c6-4a1e-8c0a-ad602079ff88",
+            "id": "85",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "E-YOOO-Mini Teclado Mecânico para Jogos, Interruptor Magnético, 61 Teclas, Com Fio para Computador, PC, Laptop, Cabo Destacável, 8K RT, Hz-61, USB - AliExpress 7",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/1005006721958557.html?aff_fcid=5fcb23c9d6474c9eb1e91ac0962174c1-1729748273572-09754-_DmxEkeB&tt=CPS_NORMAL&aff_fsk=_DmxEkeB&aff_platform=shareComponent-detail&sk=_DmxEkeB&aff_trace_key=5fcb23c9d6474c9eb1e91ac0962174c1-1729748273572-09754-_DmxEkeB&terminal_id=072a2a389fa74b889f6f341610f5cd48&afSmartRedirect=y",
+            "visit_count": 1
+         }, {
+            "date_added": "13377212651237823",
+            "date_last_used": "0",
+            "guid": "9e60340b-6bb9-40eb-b7e7-12253fb4bed1",
+            "id": "86",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Delux M900 PRO PAW3395 Mouse Para Jogos DPI MAX 26000 Com Fio 2.4G Sem Recarregável Dock De Carregamento Magnético RGB 63g Design Ergonômico Assimétrico PC/Laptop/Windows | Shopee Brasil",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.com.br/Delux-M900-PRO-PAW3395-Mouse-Para-Jogos-DPI-MAX-26000-Com-Fio-2.4G-Sem-Recarreg%C3%A1vel-Dock-De-Carregamento-Magn%C3%A9tico-RGB-63g-Design-Ergon%C3%B4mico-Assim%C3%A9trico-PC-Laptop-Windows-i.280443173.24271583026",
+            "visit_count": 1
+         }, {
+            "date_added": "13377212657781684",
+            "date_last_used": "0",
+            "guid": "cde327d0-894f-4814-b91b-3d81f121cb18",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mouse Delux M900 Pro - Periféricos e Acessórios de Computador - Cristo Rei, União da Vitória 1357505327 | OLX",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/informatica/perifericos-de-computador/mouse-delux-m900-pro-1357505327",
+            "visit_count": 1
+         }, {
+            "date_added": "13378776254859004",
+            "date_last_used": "0",
+            "guid": "0eb0564a-6532-4334-9c90-e87a4662aac9",
+            "id": "88",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Madcatz madlions mad60/68 he interruptor magnético teclados mecânicos troca quente 8k taxa de pesquisa teclado com fio personalizado e-sports presentes - AliExpress 44",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/1005008233599531.html?spm=a2g0o.home.pcJustForYou.13.25901c91Odu5py&gps-id=pcJustForYou&scm=1007.13562.416251.0&scm_id=1007.13562.416251.0&scm-url=1007.13562.416251.0&pvid=cb8617a0-12b9-4817-9778-fe210ed88acb&_t=gps-id:pcJustForYou,scm-url:1007.13562.416251.0,pvid:cb8617a0-12b9-4817-9778-fe210ed88acb,tpp_buckets:668%232846%238113%231998&pdp_npi=4%40dis%21BRL%21564.33%21205.26%21%21%21647.76%21235.61%21%40210318e817343024128378804e7754%2112000044318752346%21rec%21BR%21%21ABXZ&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A",
+            "visit_count": 1
+         }, {
+            "date_added": "13378776409836581",
+            "date_last_used": "0",
+            "guid": "3314995d-a5ca-48ab-8088-a3b9b74c9cc0",
+            "id": "89",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zuya he30/65 teclado mecânico de eixo magnético com fio 8k gatilho rápido rgb backlight e-sports jogos teclado personalizado - AliExpress 7",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/1005008036413401.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.14.2189RqJxRqJx4c&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=f3001fc7-657b-4355-a327-0a79436ba27a&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:f3001fc7-657b-4355-a327-0a79436ba27a,tpp_buckets:668%232846%238109%231935&pdp_npi=4%40dis%21BRL%21200.14%21173.75%21%21%2131.57%2127.41%21%40210318e817343027395054176e7754%2112000043353424698%21rec%21BR%21%21ABX&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A",
+            "visit_count": 1
+         } ],
+         "date_added": "13420170687083592",
+         "date_last_used": "0",
+         "date_modified": "13378776409836581",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13420170687083592",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13420170687083592",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Espaços de trabalho",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCJrgtm+dAQAAEgAqGEZPQ1NCWEhIMEwrRnJnTWRUL3QrRFE9PUgDoAYHEq8BCFkSqgEKHGVpOHNSdFhQVThXd0NFblBrRzd5WVpUVDBFZz0SJDMzMTQ5OTVkLWE1Y2EtNDhhYi04MDg4LWEzYjliNzRjOWNjMBgAIAAoADDvjoPkvDI4kJCD5LwyQJCQg+S8MkocQ3lZYjk5UmRFaVZJdzUyZ0JkMmF1RTkyZkRvPVohIh///+w0TVdKa2FnU0RLZUc0NGlKNDhBbVhJQ3MzQUU9ZV+ZXLfCPgJgBRKuAQhWEqkBChxNSm80NDJJRVpXS05zNUprYWxKQXdOWTdlTEE9EiQ5ZTYwMzQwYi02YmI5LTQwZWItYjdlNy0xMjI1M2ZiNGJlZDEYACAAKAAwtPmu+rYyOMz6rvq2MkDM+q76tjJKHFZZditlNGJuQjI5bzFuOEpWcDRIREl6T1NFUT1aICIe//9nNEZOcFM4YlVsZm0vb2xRbzEwRjArS3lDVTQ9ZX1OuALCPgJgBRKuAQhUEqkBChxLMHFreWdUdjZDeWZpOGlpNFJRL2JuazdCS3M9EiRjYmJiMmExOS05OTI1LTQ2NGUtYmZiYS0zMzJlYmY1YmY3ODEYACAAKAAw+fOE4pwzOO6yvLyrMkDusry8qzJKHE02cVpSNm9PVVpnUUZaT1R5SnJBRXM3V3hocz1aICIe//1ic3pjVGE5ajdiK1VFZWUrWlhUUUw1Q2xmK2c9ZemRyBPCPgJgBRKuAQhSEqkBChxDZjhPUFVabURtWEZsS1FiTGVtT1hhVk1wSTQ9EiQyZGE2NWU3My0yYzlkLTQ5NjUtYmIwMy0yOTkxOTQ4MTNjOWIYACAAKAAwgo/wkasyOLTr9eqqMkC06/XqqjJKHE9zbkNRVWRjaEQxTDhyNmJCZTRTTEU2eTA5dz1aICIe//cyRGIvZm1WY3phWWYvQWtocEhldERyeGxDdGM9ZV+ZXLfCPgJgBRK1AQhNErABChwwcHgvSFN3cjBmQnJvL3ZXdXhRdEduRnpLTGc9EiRlNTkzYjkxNS04ODMwLTRkNDktODQxOC1lY2QzMWFkMzFlZDAYACAAKAAwoIbJ1tYzOIKphJSbM0CCqYSUmzNKHG5Sa2huMGVSSFh4MU1uOFBoa0ZkcmZIRTBaOD1aJyIl/////wAAAAvtWk9MZXVtMFAwamdrTkdOYklFaHBsK1pzMGNnPWVh2OICwj4CYAUStQEITBKwAQocMnRQSjB2eEdZK3FaRi82Mks5N1ZJMHRwSHhVPRIkNmI4ZGMwMzEtOWFmYi00ZjQzLTg0M2MtYjhkZTk2MjM1MDVlGAAgACgAMIb+xdbWMzjUzNTVlTNA1MzU1ZUzShxBV1JPZU1XR1RrVnJiM2Fadmcyajc5NkVIeE09WiciJf////8AAAAL21J1eGZPT295YjZLaGdSL1d6eFl1WHF6QS9pND1lNBs10cI+AmAFEq4BCEgSqQEKHDViTFRyQnZESE1yT3E0RTNjcGwyZTgzaWJOcz0SJDNlMjM2YzhhLTUyNjktNDdkYi1hNGEwLTExYmQ1YmE0NmI0NxgAIAAoADDBooHrvDI4x4L2/YcxQMeC9v2HMUocSEkyNTdiNzg1V3ZtTytsMkJSQU92RXppU1JNPVogIh79u29UZ25DbzFUQytSYnA3M1daWjRKZG1IZElzST1lvRSvF8I+AmAFEq0BCEYSqAEKHHBiVDhtOXo1b3pTVE1jUm9LUDhacjdrTW05dz0SJGRjMzNiODZkLTllZTUtNDM0MS1hOGRmLWE5ZTM0NTA1NTJlNhgAIAAoADCzjPLx6TI4zpmX84IwQM6Zl/OCMEoca3hJZlVqQnNqcXFqRm1aaUxmZldlZGlCUnJJPVofIh37WFVyckpydTloM2Y1eEtzeXN1SkdQQXBNZUhrPWVfmVy3wj4CYAUSrQEIRRKoAQocU1BOaXVTa2N0cFg1aFdZc0tTWDNUSGR0WHU4PRIkZGI1Yjk2YmItOTMwNS00Njc1LTg2YWYtOGY5NzQ2OGM4NGRiGAAgACgAMLm2geu8Mjjm0ICw1zFA5tCAsNcxShxXT1lIZWZXUW9DdFlGWEpMKzNhcDIzOFZJcEE9Wh8iHfhhTHZOc2M1NURueHdoWUxqS01DQUI4NiszTzA9ZQ0RlTPCPgJgBRKtAQhCEqgBChxpRkoyRm4zME90dXI1bUJxTnN6T2xpdzJuNzA9EiQ0OTlhNGMzYy1lZTNmLTRhMDUtODMwNC03OTg3ZjQ1NWJiMWEYACAAKAAwx4jc7fwvOPmal/OCMED5mpfzgjBKHEdMcXdIeGRza1NkdEtHTVFOQWZvdTd0L3MxOD1aHyId2m04NzlUN3BzaVhqL1VmbmVNWXRQNE82U0dvVT1l85drqMI+AmAFEq0BCD4SqAEKHFhpV3oxSTFVRTRlaVRpVUtvMnNYT2dnajNkOD0SJDg0MjZiYmVjLTU1YjEtNGEwYi04NGJkLWU3ODA2MDdiMTc2YRgAIAAoADDTl/iFkzM4wtDSmN4xQMLQ0pjeMUoceDRaS3pCRlRJNTB4YVVGRlNXTERDRHZrWDIwPVofIh3HNGM3dVozK0h5N2YvZGJhTGFjb2ZtNE85SXlBPWVmxivOwj4CYAUSjgEIBRKJAQocd1JCclpMKzZQQTlhdktnak5QN0pYRExjZnZzPRIkNjIzYWIzOTAtNjczNi01OTAxLWFmM2YtZmM3ZDg2ODc1OTQzGAAgACgAMK7H9a6kMzjkyfWupDNA5Mn1rqQzShxubXg2NXNRRHZ4SThUZ0VlditBK250dG9TbjQ9WgBlAAAAAMI+AmAAEqwBCDsSpwEKHHdScmFjS0tGYlRTUUpEMjkxeUVGTU5qVDVDbz0SJDNhYTlkMDUwLWEyYzgtNDY2ZC05OTYzLWU1Y2I1N2IzOTQ0NRgAIAAoADDcl7GKizE42pqX84IwQNqal/OCMEocZ09Pb0NZODRxaDM2bUs2a3hYOE5CM0k0ekpJPVoeIhxiUHVzZFB1U2pqdTFHVm85V3kzcXg5VWYvNGM9ZX1OuALCPgJgBRK0AQg6Eq8BChxzQkp5S1NHdUIxbFYrVlhkRkZrOTNMYXhCZ009EiQwNThiYzI4ZS00ZjEzLTRmYmYtYTQwOC03NWY1ZjY5MTA1NmYYACAAKAAw29Sv1JIzOOqFl/OCMEDqhZfzgjBKHE1VOXVlUzRqekRZNmlZYkc2Q2dDNVVzOG5WMD1aJiIk/////wAAAAs3enJ1bFhVOENaVVZTVEZTRVg5Q0E0bkhVUGM9ZQAAAADCPgJgABKuAQg4EqkBChw0OSt3YnlQMW9ncGFoR0VVQ2FIRXNuVC9DWXM9EiRhZTMzMGIyMS0yMjkxLTRhZjAtODExZC1lMGFlNmVhNzk0NzgYACAAKAAw1af3iocwOOqn94qHMEDqp/eKhzBKHDFPbmNQSlJqSU0xa2VDRHFSMzVReWcwbVNPST1aICIe/7lrTnVaVk1wTmRjcXVpZFFZQi94VjREbVJVbjQ9ZQAAAADCPgJgBRK0AQhKEq8BChxaTHByeGsvb2ZaV3lUYVVuYzJTZVYrbnJtMG89EiQ3OGM5NjYyZi03MDA2LTQwNjctOThiNy03ZTQ3OGY5NWRhZTEYACAAKAAwv8j84LUzON++6ITmMkDfvuiE5jJKHEJ3MzhnQm55Nk9UUDcydUdUczNQKzg2djYvbz1aJiIk/////wAAAAtveGhtWmJNaHhYUmFYSXBrVjA0aXVPWWZrLzQ9ZQeBOYDCPgJgBRKvAQg3EqoBChxTd2JnNFl0amMzM0Z1SlM3RHdpM2JqS09YNDQ9EiRhYmViNmZlNC1kMDcxLTRhNDItOWU2ZC03OGIyZDdmNzIxMzMYACAAKAAwwsXIxMkyOKTIyMTJMkCkyMjEyTJKHDNPcEFMYXlscng2ZnFXTG5rOTh1UFB4Yisrbz1aISIf///6MnVyaXVkMUlxU2R6SU5OVnhwZmx1SkJYVEY4PWXpq1SEwj4CYAUSrwEIVxKqAQocS1A2ZGJBa3c2ejZpdTdSOTcwdHRORkt2S3Z3PRIkY2RlMzI3ZDAtODk0Zi00ODE0LWI5MWItM2Q4MWYxMjFjYjE4GAAgACgAMPrzhOKcMzjyra/6tjJA8q2v+rYyShxYMmFIeVN3VEpCaVhLN0wrSFJVeVkzR3pSSVU9WiEiH///s05NSDJYdjNuLzZWUGVYT1RoSThFdGZiMjBKbz1l6ZHIE8I+AmAFEq8BCDUSqgEKHHowUldZRlNtSXRNK3I2NlRwWTZhODZzcTNvZz0SJDM4Nzg3MzI0LTUyYmItNDFjYS1iNTc1LTFkMWQ0ODM1OTI3MRgAIAAoADCJvsHEyTI4oMLBxMkyQKDCwcTJMkocSHpEODByUzZoOFJXNlhXNXFXeWJTOTdhZVNFPVohIh///+pTN0hYMUF3aDVKdmxTYkxIVUpIaVpkKy96SzQ9ZemrVITCPgJgBRKvAQg0EqoBChwvN1ZtSFpWd0dXS3oxOGV2WThnYnJxWU9wQkU9EiRiMzVlZGI2MC0zNDllLTQ1ZjktODVjMy0zODVlMGZhZGM1NDgYACAAKAAw7abBxMkyOIOPwcTJMkCDj8HEyTJKHDBZU3dBZ2xpYXlLMk8zbURHTGxCOFFuN1dxaz1aISIf///VK0trM0pNN2s3c2IvRTA5LzZsQmpFUzI2aVRVPWXpq1SEwj4CYAUSrQEIQBKoAQocdE9DdUJkSkZaZDRqOXNBTC9iSG9nVnBOWWQwPRIkYTMxNjdkYTQtYzRkMy00YzYyLThmMDYtMDk5NTBiMTIyYjc5GAAgACgAMKXdgeu8Mjj8h6CKgzFA/IegioMxShx5b1R3cTl2VWFuSGdZb1g1SENyL1VyRSs1ckU9Wh8iHdV6b0NhbzkxTitMRjZ2ZWFyWk5DdE9DWkZiSDQ9ZV+ZXLfCPgJgBRKtAQgZEqgBChxWak1HZXhGTHBZMnAycks4MzZxVGxGN2JDc3M9EiRkZDdmNjQ4NS0xMTZhLTQ3NGQtODU0My0xYzljZWIwNWI0YTgYACAAKAAw6LzG5rszON6el/OCMEDenpfzgjBKHHlWUnNHL28vZ0VUVXJsWHZ6a2tYKzExdEpVbz1aHyId3jFsZVIwNUZRR1NONFhUb0EzUk41QmVhMWtjVT1l1O9wOsI+AmAFEq8BCDMSqgEKHGZaUll3bTVmWVoremFpbjBnaHo5RHpLNFBjZz0SJDUxM2Q0NmU5LTU2YjktNDRiYy1iOGU1LWJiOGRiMTZhMTk2YxgAIAAoADC0scL2ujI4j8C96KoyQI/AveiqMkocRldBWUhpZmJNdUZPZXRweWZOb2VVa3p6cHlZPVohIh///6pQNGMzMHZiVmp6cnNDelhmSjliZlV6Snd3T2c9ZV+ZXLfCPgJgBRKuAQgyEqkBChxDZElMY256SGRhTER1czNFdjBkR1I5WUFBME09EiQ0N2RiYWQ3MS1hMWRjLTRkNGItODU2ZS1mY2M1MWIxZjg2ZmEYACAAKAAwh4L16f8vOPTVl/OCMED01ZfzgjBKHGxDaUYxZ2wxY3lWTmwycTU3UEp2b2RFUEloaz1aICIe//9URkYxWjNHdkg3V1VhSldOTFIrRmdwdzc4bHM9ZUbFL6PCPgJgBRKsAQgYEqcBChxHMTJ1b014V2lUUHpYbzRSZ05Xb1ErQVQ5b2M9EiRhNmZmMzRiNC02OGRiLTRhNjUtYmIzZC0yMWYxMzc5ZjdmMTIYACAAKAAwx4jc7fwvOLWcl/OCMEC1nJfzgjBKHFZyYjRRUlFFYlNpOXN4cUlVWGZCeVQ5aDNhST1aHiIcY3NFNVpHcEo2dU1vWVVCdnpGczgySElnV0FzPWU8tiCWwj4CYAUSrgEIMBKpAQocd3hLSGIxWWIxSkIyU0lnRHI1WWl6M01TZjRzPRIkODAwMzQwMDgtNDhkYi00MGY2LWIzOGItNWJhMTVjMzliOWJjGAAgACgAMJyahYj1LziysJbzgjBAsrCW84IwShx6V201c1lLRUloR3hERUE0a1FJVlQ3a0NKNWs9WiAiHv/9VlNNTmI5SDZ0YUhQazFTNVp3RDg2T0tTTzB3PWXm16CSwj4CYAUStQEIThKwAQocdCs2c3dHWjNzb0wwWXYxYXdRNk8zM25FK1dRPRIkMmZjYTc3ZjUtNGYzYy00NTA2LWE5NDktZTY1YTNmMTA1NzBiGAAgACgAMKrDhdSvMzjCx4XUrzNAwseF1K8zShw1WWg4TGVkVjBCU0owRU9tNHIzTC90dHNXUkk9WiciJf////8AAAAL9jRiekM1Z0JhMVBhNGN2NHdaMjVtYkxiV0VCMD1lUTDus8I+AmAFEq4BCC4SqQEKHDhrM29rWVcxUlk4cmNxQXhEcXhtU3BsMVdVRT0SJDE4MjEzZDAzLTVhNmUtNDdkYi1iNWI4LTdjNzFkN2QyZjljOBgAIAAoADDN/6TMljA446qW84IwQOOqlvOCMEocaStUWElOblUxNFE5bWp6b3VQcDM3T0ZPKzM4PVogIh7/9FVML2hmNERHcmJMQjhjeE9ybkxqY3lqc1NVVT1lQ+Y6e8I+AmAFEq4BCAsSqQEKHHRoc2NrK1NHU09qVzBsbk5ickVCRXdKV3U1bz0SJDFlNjZmMzI1LWM1MDYtNDI1ZC05ZGY4LTE3OGEzMGIwZTkyZRgAIAAoADC2s6vV1jM4k5S2hKYzQJOUtoSmM0ocL0dHUlQ5bWRXY0d6VkR2ZFJZc25mOXVycmtzPVogIh79cWZ5ZHdaMDFBQmw5VmNBSWFrSUZlcWtHK3JXQT1lp/uYEMI+AmAFEq0BCCoSqAEKHEM5RVQ2UEpPU1FPOVI2S2pOMkI2ampjbjM2ND0SJDA0MWY4MzE0LTc1ODQtNGI5MC04ODYwLTA1ZWFjYTBkNWNmYxgAIAAoADC3scL2ujI4x6mW84IwQMeplvOCMEocNXZ5cytNRUsxTnZOR2xXSnBCc2VPTFlvR2dRPVofIh3/TnZFaEcvUDFBdlU2eFBrVnVWbzNXZEdFYXpBPWVfmVy3wj4CYAUSrgEILxKpAQocZk1UWlBiOUx2WXQ4N2lEazlseDNsWi9qTGZBPRIkMTQwMDgwZGMtY2UxYy00MDEzLWIxY2QtZGZhYTVmMzhiN2RiGAAgACgAMLCOhYj1LzjEqpbzgjBAxKqW84IwShxaUVZyOGlDeEI0anpqWUMrVzJia0pFV2lZc009WiAiHv/6WkUvU3N4QmQrbmtpZ0dGYkZsdFBCUGhjUmt3PWXvEX6Bwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMmZkNjYzZjgtNTBhMS01MDRiLTk0OWItMzUwYTIxMzA0MTQyGAAgACgAMOzR16CyLjia3onzgjBAmt6J84IwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAErUBCFESsAEKHE5kcTRoUG8zaWV4a1B2QkgrMnJteFhPQUpjdz0SJGQ0NTRiNDBhLWRiMDItNDdhYy1iOGRiLTg4YWZjNDk3ZjBmYxgAIAAoADClwPqo1TM42sL6qNUzQNrC+qjVM0ocOUlneEQrRjduR0tBZUFqRkNDTWVpSTBEUHFzPVonIiX/////AAAAC/53NXoxWGhBaGhqZjQ5OVFKczY3N1ZJNjdwNFU9ZcI1WhTCPgJgBRKsAQg8EqcBChx1a2xTK0gvRzV1SjI1cnQyeEpSVE1HVFN3bHc9EiQ5Yzc4YTlkYS1iMTQwLTRiMzAtOWJjMS03YWJkN2FkNmNkZGYYACAAKAAwx4jc7fwvOJacl/OCMECWnJfzgjBKHGtBSzdzVEl1THVSSnlKdXE5UVk3b1QwWXh6bz1aHiIca2NTOHJjRzFETWt4VlJFTTBYSlhXK3h4QzVRPWXzl2uowj4CYAUSrQEIKBKoAQocWGtCRWprWVZJWDQvRTZzT2c2b1pISVI2dWFBPRIkZDdmMzZlN2ItODI3Ni00YmZjLTlmM2QtODRlODZlMmYxY2NmGAAgACgAMM3/pMyWMDjEr5bzgjBAxK+W84IwShxHcWhqUHRXQ3VuZWMxRTlIdkFTTVlEZWUrRE09Wh8iHf1yQndGYmxpT05zSFJ5Znp6MDZ6U0F0WmxhR2c9ZUPmOnvCPgJgBRKtAQgjEqgBChxQWEF6V0tCR2xyVFY5OUlCYitwRlpJZXlxVmc9EiQ1OTEzNjM5Yi1hNThjLTRhMDYtYmY0MC03MWNjZmM3ZTM2NmEYACAAKAAwirSw1JIzOIKrlvOCMECCq5bzgjBKHG9HOUc0cXp1V04yL2RBa3JiZzgrbjFONFlrST1aHyIdullVdHJkalE5ZXIzb2dwL04ybnBjUkQ3NkFnWT1lhRj4+cI+AmAFEq0BCA0SqAEKHFQ2OGluQ0t0L0tMeGNGYVBzdzlFSkpVUTFIWT0SJDMyYTI4M2RhLTU2ODMtNDQ4ZC04ZWNmLWViYzcyMWFhY2NjYRgAIAAoADDahvC60TM4/6rfx+0xQP+q38ftMUocRW5qZERoTmJJazVXVTMybnZrSWcvcXdWemRFPVofIh39dHF3ZUJlOWhnOUk5TEsrc2sxS0t0Ykxjc29JPWUoi0Sjwj4CYAUSrQEIKRKoAQocTmsvbFhJNzlKZG82OHQzTGNjRHVuclZUcWNNPRIkMGFmMGE3ZWItNWFlYS00YzBkLWIyMGQtZTY2MmU0ZGU5YzExGAAgACgAMM3/pMyWMDjmqZbzgjBA5qmW84IwShxwYUp5Qjg0V2lUL0dIQjhYYVFSNVUyMytONWM9Wh8iHf45d1NnZEV2bm50R3NrL2hmYjlSRGU0ZDZiNVk9ZUPmOnvCPgJgBRKsAQghEqcBChxkS3gyR0ZqZTZsRC9hSjN4aERIRVBlQkhoRXM9EiRiNTYxZjFmNC0wMzUxLTQ0MzktOWY2Zi1lMThiZjY5ZDZjMWIYACAAKAAw0evPxeQwOOeulvOCMEDnrpbzgjBKHHZqM0tQVEpieHp0ZmtqR1B2UTFmZFVtNkRXRT1aHiIccHF3MmVxN1RJSU1yMTlqZlFuZmdCZUpDakxzPWUd/W/6wj4CYAUStQEITxKwAQoccnFIUEFwYmZtOUpnR1o2TURML3ViOUhZZnNFPRIkNzI2YTIyNTItYzY2Mi00Njk1LWI5ODEtZmM0MmY2Yjc0MDY1GAAgACgAMOubqo7UMziN0IissDNAjdCIrLAzShxJL2lQUEJicFdhR0ZUSmdiMkJneHorMDRSN2M9WiciJf////8AAAAL+1hJekwrVXgrY1Z5cGVBMVY4ZzhTaWtFNTF4OD1lPIKlkMI+AmAFEq0BCD8SqAEKHG01bHhwc01OdmRBSTlyeFRsc2dZaXpXYUdKbz0SJDBjYmUyNDZhLTVhNDUtNGMzOC1hZDRhLWYwNDBlMGU1MDA3ORgAIAAoADCk3YHrvDI4prXv6egxQKa17+noMUocY2pyTjJVS1hBZnZWZXdYRkVyVnJ4cHlEWTk4PVofIh3QMElKdUc5M2VYYTMrODA5bnNZbldhaTBaYmFZPWUyDgdiwj4CYAUSrAEIIBKnAQocWGI3SWZjTE9POXh2SEFEN3hxY3JMUkhBUmY0PRIkNTYxNjE5NGUtOTRmYi00YmI2LTg4YWUtMDI0NzcyM2EyZjAyGAAgACgAMJ6T0en/Lzi11ZfzgjBAtdWX84IwShxtejFMeHM4WHZmS2sxeTZJVHRiOXhXOGRPZ0k9Wh4iHC9kODRHMWdoUTR1MWhTL21LMVMwYVUxR3lQVT1lRsUvo8I+AmAFEq0BCBoSqAEKHG5kSk12T1VCV0oyeWh4djRqRzhzK1hYMGVwRT0SJDExMDk2NmE1LWY4NWQtNDNlYS05N2ZkLTBlYjM4MTc1NjE1MBgAIAAoADCg856iyTI4q5WX84IwQKuVl/OCMEocZVZNNlFsckZRZThvN21ETVJJcFJoWllGOE1VPVofIh3valZDSzd0SGJiNnF3cE1ZRFlncmxXRmUvRGpBPWWhpvQawj4CYAUSrQEIHxKoAQocZ3hScjAyYmVGL3RGbDJkMHk1TjhHSjBxaDQwPRIkNzc0NjhiOWEtZGU0MS00MTY0LTliZmMtMGY3YzgzMzc3Yjc1GAAgACgAMN+Wj4j1LziNhZfzgjBAjYWX84IwShw3ZmxSZHpBYlhMeFNWaElvQXY4bHpNTEo1VFE9Wh8iHRdrSGV2QThCdTgraEkralFreFJFamNBWmJIZ0E9ZQAAAADCPgJgBRKtAQgbEqgBChxIU2JQemFUMG13MXRDNldJOXk0VTJyK05IUjg9EiQ3MjdjMDVlZS0wZDRlLTQ3YWEtYWZhMS04NTIzYmQ2NjVmMzkYACAAKAAwx4jc7fwvOPabl/OCMED2m5fzgjBKHG84MWZXNmgrZ0Q5ZXJrTnk2TThraVNnK1hzbz1aHyId91VOV1dseUFIdnNDKzk1NWpCT1VMdU5JcHFOST1l1Pt33MI+AmAFErUBCEsSsAEKHFRPRnExWWh1djIrQ29VcWZ5S1pnUTVFME1PRT0SJGFmMzAyYmRjLWNjYTMtNDU0Yi04NTk5LTM2YjYwMWI1M2RlYhgAIAAoADCinb+50jM4tqP3/NwyQLaj9/zcMkocVHNqM0hrTXZHaGgzd0lBZGUzZ3VFVG5SakRvPVonIiX/////AAAAC7dIWHRsWlNISVFwcDVZVVlwbE9vVWk4VXVQazQ9ZWR6OYPCPgJgBRKuAQgxEqkBChxhQWdRWWY4aFlVaVJ1SmdGVHZZc3IveDV5YTQ9EiRhZDRkZGJiNC02NmFhLTRiNzUtOGQ4MS1jYmMxNTdjOGUzNDkYACAAKAAwuouMlP0vOPDRl/OCMEDw0ZfzgjBKHFJ1WnEzL0p3ZjVlY3UwN3F1NGdLRUpjL1NhMD1aICIe//5OTVdHVUgzUGxNMG1jWWg0NHJQaTMzYkNHRUk9ZcfwIEPCPgJgBRKuAQhTEqkBChx1ZnVOcHQvVDFKMFk3MS9FdnNaT3o0MkJ1MmM9EiRjYzkxMjMzMC03ZDliLTRhYTEtODg4Ni0zYzI2NDYxZWFmOTUYACAAKAAwgI/wkasyOO6OmuuqMkDujprrqjJKHFlXQ2ZFSHJHeC9JWGM4U0I3UjFLOCt1aE14VT1aICIe//thbm93YXo3WGdKc05yeGZKREdUTFhzZFpIeFU9ZV+ZXLfCPgJgBRKtAQgdEqgBChxZMFc5bTNFVlRhMWV5TXdNSFVTUVdpMDZxTkU9EiQ1NzgwYWYzOS02YjVmLTQ4Y2QtYWMzMi02NDdmNjBlMjZjMWIYACAAKAAw3PqPiPUvOKmGl/OCMECphpfzgjBKHFJYTDBXQ212bHhTR3Fvb3I0UlNUTFB0bGtnND1aHyId/3JvRWdmV1Z4YmZ5NWZxNUZ0UXQrQkExcTdERT1lAAAAAMI+AmAAEqwBCA8SpwEKHHBoMW04S3BXTDhwYi9CdDNwY2FhUjBTdDNtZz0SJGFhNGQ5ZjQyLTU3MTgtNDc3MC05NmI1LTc3OThiOTVkNTFmYRgAIAAoADCX4f+S8TI4zuX/kvEyQM7l/5LxMkocalhjQWF4Vk90Nk1zYUJRQ3dWdWI5V0l0RFhZPVoeIhxDYTNZV2hDU0xhZ0lvYTdPM2pvNW0xNjhUQnM9Zf0zapnCPgJgBRKtAQgmEqgBChxHdmw1TDBmRzdJRmNhQkdkUnd1R0N1UkJxalU9EiRiY2RhZWRlYi1iYjY0LTRmZDMtYWQzYy1jM2ZjOGEwN2ZmYTEYACAAKAAwsI6FiPUvOKWvlvOCMEClr5bzgjBKHDdjcmNkSWVpT0o2QzRnS0EydVFBVXZPTTNnOD1aHyId93FyaTBXaWVpMkVxNG1RVXdhOWRpN1hjeGhZOD1lGWtYwcI+AmAFEq0BCBYSqAEKHDBSbDJaalNZVGJDOTl5SWlPWnUzbEIzbFprZz0SJDU5ZTlmY2JiLTI4ZWEtNGY0Mi1hNWM4LWI1MzEyMDU2Zjg3YhgAIAAoADDh+YjIzTM4qJuX84IwQKibl/OCMEocYVRNNW5xVEREY0JkVENZd29HUC9xNlhlT09rPVofIh0OQ0xTZzc3QTdrTm1WcEplUU1icWRUbld0U2pJPWV+Q+SZwj4CYAUSrgEIORKpAQocZlYvVEdZSFVEaGlYTEVrSkRDblFTcG5YWUhrPRIkNTY2YzdhZmQtNzU3Ny00ZGY3LThiNjctNTk0NzAzMjU5MGFjGAAgACgAMIG/l5GuMziI9omTmTJAiPaJk5kyShxpbEJNLzFPbUtVS0JMbTMwcVhQWXlmQlpIZ0U9WiAiHv/cQUJiWVZSN21zTUI3SUp5RGV2K3ZZamVYaTFNPWVH7CRgwj4CYAUStQEIDhKwAQocaHhCdnV6cEtjZjVIVDZKdlUxSUFWdDRBdCtNPRIkYjYwZmY3OTYtNDUzZi00MWRmLTkxMWQtODIwM2YxYWI0NWM4GAAgACgAMJjo/ZLxMjjq6v2S8TJA6ur9kvEyShxhdmZ5TjBYc3pqZHpTbDlaOWpaTTY3R1YzcGc9WiciJf////8AAAAK9zV3eEtvci9CWWZoamgwTWpVWGpDYUpmYlE2OD1lAAAAAMI+AmAAEq0BCBMSqAEKHHh2SjJGTHFjbnJyZU9yTkJ0cjBKd0dhTTVtTT0SJDBkY2FhZWNhLTZjMTgtNDAzYi05N2M5LTZlNzQ4ZDVjZTk0NhgAIAAoADC7jIOT8TI48ZGDk/EyQPGRg5PxMkocMExtSGpxZ0FCRG9tLzVrUlBVcVdBMUs3ZmtzPVofIh30bjhsQ0ZWSU5wc2NiTlZHRE5mUlpvaVpXaW9VPWXq7zTAwj4CYAUSrgEIKxKpAQocZ0t3WUhxUUlkTHlOaHVIcTJGR05Ma2FQNkQwPRIkNjE3YzAwYmQtNWFiOC00MTQ5LTlhNGMtODQ5YzMwZDljMmUwGAAgACgAMLCOhYj1Lzihq5bzgjBAoauW84IwShxlTnplYUdvb1hXOWt0V2Q3R2NzR0dzb2Z2Mk09WiAiHv+nNUtNQmtwMGU4WWVwWGhWR1V6UUtjMEJseGg0PWW4TObowj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNDIyMjg2ZjAtMTIwOS01OWIyLTg2ZjQtNDBkYTRkNDEyZDg2GAAgACgAMOvR16CyLjjr3YnzgjBA692J84IwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq0BCBISqAEKHFI3bXRhRFVlclQwZ3l4QzNzSjlJOHd5ZWZRbz0SJDczOTA0MTBiLWZjYmUtNDM0ZC05MDA4LWE5YmQyZjRkZTM4NhgAIAAoADD7+q7UkjM46cCCk/EyQOnAgpPxMkocM1hXRXB6alJDRXIrWnk4Rm5IQ2xnRnFXejZBPVofIh3oZnVOSWdrMW1EL2VQK21lRnJIclhibzBQTzBVPWXNOs1Iwj4CYAUSrQEISRKoAQoccVJYTW9UcHhUWUNXUjE3MlRwaG1tcGxMTHFFPRIkY2Q5NzQyOWMtNDM2MC00YzdlLWEyZTAtZmRjOWEyODhkOTc0GAAgACgAMLHxt7+rMjifmZfzgjBAn5mX84IwShwrRGtxTUcxSm1BeU1tb29VL3JvODNqMmVNUGM9Wh8iHf5CMlRVTkpmcTl6N0hMQ2JJV1VRMzhBa0Z6dEU9ZX1OuALCPgJgBRKsAQgiEqcBChxGZEhvbzBKckNsdnl0cXJFMytjTXJYNTFUZm89EiRkOTU4MmMwYi02NzM4LTQ4MDEtYTk1OC02Y2JkYjBlOGE1ZDgYACAAKAAwsI6FiPUvOOSvlvOCMEDkr5bzgjBKHFVacVFvLzRVWS9COFZjK1BMOGd2ZFA2M3NRdz1aHiIcdFJRRjRJczZjVXpXSXZ5dThQUVQ0KzRRMW1NPWV+qBM/wj4CYAUSrQEIQxKoAQocQ0owdGNCOEJKbS9QNUpobGRQdktScVc3TVNVPRIkMzliNWIwMDYtNWIyMC00Mzc4LThjNTQtYWQ2YWJkMDhmZjE4GAAgACgAMLCF3O38LziIlpfzgjBAiJaX84IwShw3ZlJ3bkZHK2JQRXROeHkzN0pIYUdGeDMrelk9Wh8iHe1wM0FkTU5zSHZaWkNUcEhZQXlHUVg2VDFpWDg9ZfOXa6jCPgJgBRKtAQhBEqgBChxoRzdCbFFOMkN5bkZ2YSszVms1RU1NVTJyWGs9EiQ1ZDRhNDI2ZS1iNjMxLTRmYmYtOTVjZS1hNzJhMTYwNzE1YTIYACAAKAAwrv6B67wyOLzF7MHtMUC8xezB7TFKHGdQZWIrNmJpSXJyd0FVQVdFTHpHeC8wbmdkVT1aHyId13ZKU290Wm1reEczak5Rd2RVZkEyVGFQbnVRUT1l3zX+NMI+AmAFEq0BCBwSqAEKHGZHeDBMU1pzeFNjc3lZaTNBNjh2SmdjMGdPYz0SJGRlZDBlY2RjLTcxNzAtNGJmNS04OGM0LWI5Mjk5YWZjYWMxZBgAIAAoADCwhdzt/C847ZmX84IwQO2Zl/OCMEocdkQ2bVVML0xtcTJGUEpNT0NPS3B5VWpJN2JFPVofIh37TGtIT2NuZ3d1QXMrSTRSeDhTb1d5U0lCQ0VrPWXjgMpqwj4CYAUSrQEIFBKoAQocNTJCVXN3RFBlbVR6bGZCT01tZW9MUHNQbUo0PRIkYmVmOGQ1ZjQtM2VlYy00NDMwLThkZTItNmVjOTNlYjBkNDQwGAAgACgAMJHFhJPxMjjhyIST8TJA4ciEk/EyShxtMWtXT2ZQazVaa1FGTkIxMm1DM0QxVCtraTg9Wh8iHfp1YmZBUGJ1SzVRMVRQM2F4TVJCKytDYmZPNGc9ZRAw/+TCPgJgBRKtAQhHEqgBChxSMkk4dk1EM0dYclZqaUxlbWpad0gyb1dMcFU9EiQ3NWIxN2M5YS1lMmFjLTRhZTgtYjNkMy02NWU1ZDYwNWFkNjQYACAAKAAw+97p8JQzOPqfl/OCMED6n5fzgjBKHEE0MDlrd1h3c2lRaDA5Y25mZ0MyTU9JQ0gxTT1aHyId/XZpZldHUkk5S3BXbUtzZytVYlMzWnY3TzJZND1lZWSMyMI+AmAFEq4BCC0SqQEKHGlEcHhiVGJaaFNvTktzL08yRkRXTWZ4anVEYz0SJGI5NDE2NjgwLThhY2EtNGY1OS04Y2E1LWE1NzQ2ZjNmYjIzOBgAIAAoADCwjoWI9S84hq+W84IwQIavlvOCMEocRFM2a0FXMjU0ckIxMUZxcmNzTVdXTjQ1L2E4PVogIh7/6WVlTGRXVEU3Zy9hTXF2aWxSNEZveWp5UTBIWT1luEzm6MI+AmAFEq0BCCQSqAEKHFZ0SitYMDQrQkRvalNqT1d5dW5vNWZQQUJlUT0SJGUyNTM5YTMxLWU3NDItNDU5YS05NDEwLWVhMTQ0NmY3YmUxNRgAIAAoADC1scL2ujI4g7CW84IwQIOwlvOCMEocaDhJRmVKM1pINEFaS0dYbnlXMTdDZlVidElFPVofIh3ddWRlUXNIZmlHWkhzQThWUlRUQ2pRaFNiMklJPWVfmVy3wj4CYAUSrQEIFxKoAQocVTB2VkExL1haL3lDb2FER040T25oeU5ZUU5JPRIkZGQ4Nzg3OTAtNDc1NC00NGU1LWI2ODktMGQ0OWM5YjVlOWE5GAAgACgAMP+xhMjNMzj9npfzgjBA/Z6X84IwShwyenlnNjl3Rno5Wmh5aXk4WHB3QWpWQWlDTnc9Wh8iHR1uUXBIMFJWbjVEaXJzQmd2Nmw5VzJZVVB3SDg9ZX5D5JnCPgJgBRKtAQgREqgBChxVREcwdkpCalBBOXdSa3NaazZhOE9TeDRWYTQ9EiQ4YzdlYzM3Ny1mOTUzLTQ3M2ItYWUzMC0zYzE4MTA1YjZkODUYACAAKAAwo5SBk/EyOK2XgZPxMkCtl4GT8TJKHEtwbnpKNlduZDNVQnZSWHJ6bHlWTHc2VVNVUT1aHyId0DJNZXFOcTRIT3piNXpMSXdEQUUybWgwQXkwWT1lma7JW8I+AmAFEq0BCD0SqAEKHEVYRGM1Q1NOalFGdS9IUjF6VVhOZEdHZ0hudz0SJGE3YWUwNDk5LWQ5YTgtNDQ3Ni05Mzg2LWEzMjA1MGM5ODE4ZRgAIAAoADCwhdzt/C844JiX84IwQOCYl/OCMEocNzJEeXBodCtSSHJhenI5QmFUSFc3TWluQ2ZBPVofIh21RkRTYm9HY2lYcmFEQ1NPOFFxUVNDSnBEM2JnPWXzl2uowj4CYAUSrgEIChKpAQocYVFoZ1NzeTJkeXdwaG5saDBUMFJQUWVtN0xRPRIkMDg1Mzk1NTQtYzJhNS00ODFjLWE1YTgtMGRjOWY1YmY4YTU5GAAgACgAMJf5/qbVMziUrM3F5DBAlKzNxeQwShxMS2lVOUdGTm1VN1U1ODNXNi9Ya0QyY244TFk9WiAiHv1xTHhGSngyUXo2Vi9yODFxcjlRYU9UWXpubUNrPWUQuC7Twj4CYAUSrgEILBKpAQocODFhcnAxSFBTMENFZUF1TWdiS1FBZUZLSmxRPRIkZmI0ZTBhZTktMzI4NS00OTQ1LTk4NTUtNmZlZTAwZDE0MzkxGAAgACgAMLOxwva6MjiSsJbzgjBAkrCW84IwShxrem1JRlVrSm9JSEI5eUE2NVlEb2RsV2lRQVE9WiAiHv/TcmxhNnNodytpa3RvbE0wQWJIK1Q4UVptTkFZPWVfmVy3wj4CYAUSrwEIWBKqAQocVnptemtvSyttUDdsV1oxQUFGWEpiU3h3bDkwPRIkMGViMDU2NGEtNjUzMi00MzM0LTljOTAtZTg3YTQ2NjJhYWM5GAAgACgAMK7U+eO8Mji11fnjvDJAtdX547wyShxBYzVGQnQ4azFkWnNDZnVlVU1wMGZPalAySTQ9WiEiH///2WwvRjRQTTRndm1CQU11NHhpNHFsMFNWSHN6WT1lX5lct8I+AmAFEq0BCB4SqAEKHGxONDZibHF1M29Gc1dydGFVeUdmT2JEV1lMST0SJDgxODM4Mjg4LTcxZmUtNGRhOS1iNWE3LTViNzBlMmRhN2IxZBgAIAAoADDqt4+I9S84rIWX84IwQKyFl/OCMEocM3Q4RDdGa2hrNDlaVFpMdFV1L1hEZ2w1TWlFPVofIh0LdnEybWhtRElFblVMdHdUekxCVDVVbUhVK1FrPWUAAAAAwj4CYAUStQEIUBKwAQocSCtMSDN0bVhyTWNnTDc3NjVjWGd6RUFXeG1BPRIkY2U3Mjg0ZjYtYWQ4NC00ZTM3LTlmNzktYmY4OGJkMzdhZjEwGAAgACgAMKOXgcjDMzjGmYHIwzNAxpmByMMzShxDNEFpbTFvTlVZbHVyR1hqUS96TmI5a2xoMms9WiciJf////8AAAAL/TJlUFV2aXl6Z29uRWdUQTh3MUpmWmF2RCtlOD1lQ/htgMI+AmAFEq4BCAgSqQEKHGZZT2Q2R09wSHlUV05LeDFjUzdKTlRuRGw1ND0SJDVjMTIxNzg5LTVhNzAtNDAyMi1iZTNjLWNkM2NmOTZmNTZiNhgAIAAoADDg0I791jM4mb+aqo0zQJm/mqqNM0ocYUZyKys2Y2lCMEJHZ0FFbW5lTWk2THhqQnE4PVogIh79bGlqM0tFTzZOcnZzUHF0blIrZTdBVm8zNDBYdz1lhqXYyMI+AmAFEq8BCAwSqgEKHEIrd3VjSm9KdjlhVGs3ai83aU5NdU9hbjFqOD0SJGE4YjkwNzI1LTEzYTAtNDZmMS1iOTk5LWE1ZDMyODJmZGZiMxgAIAAoADCL6v7eyzM4joaQjcszQI6GkI3LM0ocVzVTMVhFZ2x1WGdYbXBDYU1oa0NCWnU0K0FFPVohIh/9cWhucTQyMGo4WlBnbFlxY00xM0lsM0c4U3ZKN2s9Zb7dSafCPgJgBRKtAQhEEqgBChxYYlNlSk1PSmp3eUJLNTY1WFpodHQrbXBId2M9EiQ0ZmEwMmJiOS0yNjFhLTQ3YzAtYmRjMi1jNGJkNzFmNzM2MDgYACAAKAAwsIXc7fwvOOaWl/OCMEDmlpfzgjBKHGNjV1BUalozdUFlWFlUcFNuR2FITE5WVHFHVT1aHyId9nJUdlQwRjJtMk1ISGgyeUQ2aHhua0lxL2tLUT1l85drqMI+AmAFEq0BCCcSqAEKHG1MWG5FeFBzZXVNOVovNWJ0Sk5qNWNqQU1Xcz0SJDkxNDQ0MDBiLTU2NjItNDhhNS04M2NmLTM4OGQyOTJhMjBkZBgAIAAoADDN/6TMljA4166W84IwQNeulvOCMEoca0VDS3QwQisvWGtIR1loMUZQMkt6YXVwVFNnPVofIh37Vld5bkFic2wwLzBmb1pNdWovbk5jTHRKUHVVPWVD5jp7wj4CYAUSrgEIVRKpAQocc1VmOTEwY0FROUpUa2tPZXc5Qi9OVlkwR3BvPRIkNzU1YmU1YTItZThjNi00YTFlLThjMGEtYWQ2MDIwNzlmZjg4GAAgACgAMMimp+irMjiCqKfoqzJAgqin6KsyShwzNDFPK25saTl0cTVsS2theVRuTmRyaDlNbkk9WiAiHv/+UUtINDl1cFZnNjJQTXA4WlJhNXQ5Z1NaOEpNPWVfmVy3wj4CYAUSrQEIBxKoAQocSmN2emd1VktncUtNWEs2cWVlRzJjNHFhNStvPRIkYjY5ZjZjZjMtMjUzMi00N2IxLWEzYmYtZGY2Yjc5ZjFmYTdhGAAgACgAMJnB2/3WMzju3JfzgjBA7tyX84IwShxobmhzT2laQ1NIbkNRZ0tDbUZYU1EzeGhqNE09Wh8iHf1qT3FCb3ZiaDlIbXd4Z0VqNjB1dkpGZ0lBTk09ZUP4bYDCPgJgBRKuAQgJEqkBChxNZThBS2FUT25kWUdGb1VLaWF6NC8vcnBpUG89EiQzNWZhNTdhNy1hZGU2LTQ4M2EtYjAxMi02NjVkNjRjZTU0MjcYACAAKAAw2sT71dYzOLrN8e3xMkC6zfHt8TJKHGROMlVNRUVlVzlUOTJ2NGR6M0NrazdBM1NaTT1aICIe/W9PeG9Mc3h5L1F2QjcySjVJaFdESER6WG13d3M9ZYVwsQTCPgJgBRKvAQg2EqoBChx3eGozb2JQbXBXSmZLM0pJbXNXazhzVGZLYzQ9EiRmMGY4ZjNhMy05YjgzLTRmNWQtYTdmMS1jOTYzM2YxNjZiOWIYACAAKAAwncjDxMkyOLfNw8TJMkC3zcPEyTJKHFdTcVRremgyd1Rzb2xLTkxMazVGQ2ZlL2ZBaz1aISIf///1dWIwVG4zVThVT0ZQZDNrWjd0bk1uUHcwZUswPWXpq1SEwj4CYAUSrQEIJRKoAQocLzFGMk5YSmdYMTNyNTlvVnhTMmMra09ocFJjPRIkMTI1YWE3MTYtNDI5OC00MTIyLTlmZGEtZmE4ZjhkY2U3NDJlGAAgACgAMLaxwva6MjiFqpbzgjBAhaqW84IwShxvTlU1SjB6a2Z0ZEVJUEVEc1VuZVFyU1NpS0E9Wh8iHe5ONHF4NzdPc3hSSWJ0Ry8rTlU4bjdTTCtEK2s9ZV+ZXLfCPgJgBRK1AQgVErABChxsVDdSZ25rZ25abjFjQW5zWDQ5MkxOazRKQk09EiRlMGY1NjI5NC00MTAzLTQ4NmUtOGUzYS00OTYwYTJhNjRiMWEYACAAKAAw2tSv1JIzOMiGl/OCMEDIhpfzgjBKHEN2Q21tTzFSQ3pLYWpsRjFXUk03YUFvc0RPcz1aJyIl/////wAAAAr+SE9YdlltU2xmSFlCc1c1NlRLL1YxOFZPKzdJPWUAAAAAwj4CYAASrQEIEBKoAQocQXFreUVlcHZjVXh2K1FkRkNKOUd3eS9UVjY0PRIkZjRkZmUzMWQtNzIyZC00MTc1LTgxZDEtNDM5ZDhhN2QyZTgzGAAgACgAMOepgJPxMjiCroCT8TJAgq6Ak/EyShxyUFpIQS9iNCtzSlhuSzJ1QjQ5cmw5S0JsYzA9Wh8iHaFCK3ZwR3F5TzRGZE12Sk93VXdpRDB1eXR0Tjg9ZXeJIu3CPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRlM2IwNThlMi0zZDA4LTVmM2MtYmEwYy1lZjkxYmQ2NWFlZTQYACAAKAAw8NHXoLIuOPjeifOCMED43onzgjBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
